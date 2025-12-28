@@ -24,7 +24,7 @@ header {
   display: grid;
   gap: 1.5rem;
 
-  max-width: 1440px;
+  max-width: 1200px;
   margin: 100px auto;
   padding: 20px;
 }
