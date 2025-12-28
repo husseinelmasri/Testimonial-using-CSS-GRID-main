@@ -25,14 +25,13 @@ header {
   gap: 1.5rem;
 
   max-width: 1200px;
+
   margin: 100px auto;
-  padding: 20px;
 }
 
 .card {
   background-color: #fff;
   padding: 30px;
-
   border-radius: 10px;
 }
 
